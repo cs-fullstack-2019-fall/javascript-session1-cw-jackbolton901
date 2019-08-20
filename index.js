@@ -7,6 +7,9 @@ class FacebookUser
     }
 
 }
+
+// you never created an object(s).
+
 let facebookArray =[]
 function pusher()
 {
